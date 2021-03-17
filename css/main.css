@@ -305,7 +305,7 @@ section.society .fixed_bg {
     position: absolute;
     width: 100%;
     height: 310px;
-    background-image: url(../img/Society/coffee_BG.jpg);
+    background-image: url(https://cdn.jsdelivr.net/gh/SummerLeeB/paulbassett/img/Society/coffee_BG.jpg);
     background-attachment: fixed;
     z-index: 1;
 }
